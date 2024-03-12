@@ -312,10 +312,11 @@ main .main-exchange-container .backgroundImg{
 }
 .product-detail--batata-logo{
     position: absolute;
-    width: 40px;
-    height: 25px;
+    width: 44px;
+    height: 26px;
     background-image: url(./assets/icons/galleta.svg);
     background-repeat: no-repeat;
+    background-size: cover;
     top: -10px;
     left: calc(50% - 20px);/*poner al centro la papa, 50% es ponerlo al medio y 20px es quitarle la mitad de su width ya que mide 40px*/
     /* left: 0;
