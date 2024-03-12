@@ -346,7 +346,7 @@ main .main-exchange-container .backgroundImg{
 }
 .product-detail--card{
     width: 90%;
-    min-width: 288px;
+    min-width: 320px;
     max-width: 400px;
     height: 150px;
     margin: 15px auto;
